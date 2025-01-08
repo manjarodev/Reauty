@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_create_review.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_create_review.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_intro.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_create_profile.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_create_profile.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_profile_option_header.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_profile_option_header.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_eula.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_eula.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_dialog_beauty_tip.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\layout_dialog_beauty_tip.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_create_unique_name.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_create_unique_name.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_welcome.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_feed.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_feed.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_chat_sheet.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\layout_chat_sheet.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_rating.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_rating.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_scanner.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_scanner.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_influencers.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_influencers.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_beauty_tip_detail.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_beauty_tip_detail.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_post_prof.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_post_prof.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_review_linear.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_review_linear.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chat.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sign_in.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_upload_picture.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_upload_picture.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_followers_host.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_followers_host.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_products.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_beauty_tip.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_beauty_tip.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_bottom_sheet_date_picker.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\layout_bottom_sheet_date_picker.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tags.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_tags.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_friends.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_auth.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_folowers_host.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_folowers_host.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_followers.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_followers.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_beauty_tip.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_beauty_tip.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search_host.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_search_host.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile_option.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_profile_option.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_friends.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_friends.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit_profile.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_edit_profile.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_tag.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_tag.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_account.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_account.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_prof_product_review.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_prof_product_review.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_chat_send.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_chat_send.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_profile_option.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_profile_option.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_chat_row_left.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_chat_row_left.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_chat_receive.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_chat_receive.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_accounts.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_accounts.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_popular.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_popular.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_post_gridview.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_post_gridview.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_user_product_review.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_user_product_review.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_comment.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_comment.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_chat_row_right.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_chat_row_right.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_bottom_sheet_gender.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\layout_bottom_sheet_gender.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_welcome.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\item_welcome.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_user_posts.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_user_posts.xml"
+    },
+    {
+        "merged": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_partner.xml",
+        "source": "E:\\Afzaal\\Projects\\Applications\\Reauty\\Andorid_V2-main\\Andorid_V2\\app\\src\\main\\res\\layout\\fragment_partner.xml"
+    }
+]

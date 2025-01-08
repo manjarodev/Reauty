@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1deeca61-c4d5-4cd0-9146-574bacd9123e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/ChatActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_26_2021_2_45_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_26_2021_2_45_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_27_2021_3_37_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_27_2021_3_37_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/ReautyApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/ReautyApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/DataStoreModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/DataStoreModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/FirebaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/FirebaseModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/RepositoryModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/di/RepositoryModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/preference/AppPreference.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/preference/AppPreference.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/preference/DataStoreManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/preference/DataStoreManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/preference/PreferenceConstant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/preference/PreferenceConstant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/constant/ChildConstant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/constant/ChildConstant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/constant/RemoteConstant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/constant/RemoteConstant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/AuthService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/AuthService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/BeautyTipService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/BeautyTipService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/FeedService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/FeedService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/FirebaseStorageService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/FirebaseStorageService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/PostLikeService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/PostLikeService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/PostService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/PostService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/UserService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/remote/service/UserService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/AuthRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/AuthRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/BeautyTipRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/BeautyTipRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/FeedRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/FeedRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/FirebaseStorageImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/FirebaseStorageImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/PostRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/PostRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/UserRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/data/repository/UserRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/Exception.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/Exception.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/feed/BeautyTip.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/feed/BeautyTip.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/feed/Feed.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/feed/Feed.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/introChat/ChatIntro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/introChat/ChatIntro.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/message/Message.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/message/Message.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/message/MessagePreview.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/message/MessagePreview.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/post/Post.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/post/Post.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/postComment/Comment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/postComment/Comment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/postLike/PostLike.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/postLike/PostLike.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/productreview/ProductReview.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/productreview/ProductReview.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/skinCare/SkinCare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/skinCare/SkinCare.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/skinType/SkinType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/skinType/SkinType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/user/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/model/user/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/AuthRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/AuthRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/BeautyTipRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/BeautyTipRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/FeedRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/FeedRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/FirebaseStorageRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/FirebaseStorageRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/PostLikeRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/PostLikeRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/PostRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/PostRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/UserRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/domain/repository/UserRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/Event.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/Event.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/AccountMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/AccountMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/BeautyTipMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/BeautyTipMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/FeedMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/FeedMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/SignInUserMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/SignInUserMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/UiMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/model/mapper/UiMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/BaseViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/UiEvent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/UiEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/UiSideEffect.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/UiSideEffect.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/UiState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/presentation/mviBase/UiState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/DataOrException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/DataOrException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/FirebaseQueryLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/FirebaseQueryLiveData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/Logger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/Logger.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/PermissionHandling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/PermissionHandling.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/ResultOf.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/ResultOf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/SessionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/SessionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/Utils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/connectivity/NetworkLiveData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/connectivity/NetworkLiveData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/dispatcher/CoroutineDispatcherProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/dispatcher/CoroutineDispatcherProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/dispatcher/DispatcherProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/dispatcher/DispatcherProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/CoroutineExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/CoroutineExt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/FlowExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/FlowExt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/ResourcesState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/ResourcesState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/ViewExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/core/util/extension/ViewExt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/model/UiModelSignIn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/model/UiModelSignIn.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/CreateUserUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/CreateUserUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/GetGoogleSignInClientUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/GetGoogleSignInClientUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/IsSignInWithEmailLinkUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/IsSignInWithEmailLinkUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/IsUniqueNameAvailableUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/IsUniqueNameAvailableUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SendEmailLinkUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SendEmailLinkUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SignInWithCredentialUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SignInWithCredentialUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SignInWithEmailLinkUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SignInWithEmailLinkUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SignInWithEmailUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/SignInWithEmailUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/UpdateUniqueNameUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/UpdateUniqueNameUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/UpdateUserDataUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/domain/usecase/UpdateUserDataUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/contract/AuthContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/contract/AuthContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/contract/CreateProfileContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/contract/CreateProfileContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/AuthActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/AuthActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/CreateProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/CreateProfileFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/CreateUniqueNameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/CreateUniqueNameFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/EulaFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/EulaFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/SignInFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/view/SignInFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/viewmodel/AuthViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/viewmodel/AuthViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/viewmodel/UpdateViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/auth/presentation/viewmodel/UpdateViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/ChatFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/ChatFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/FriendsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/FriendsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/PartnerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/PartnerFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/adapter/ChatAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/adapter/ChatAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/adapter/ChatRVAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/adapter/ChatRVAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/adapter/ViewPagerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/adapter/ViewPagerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/model/ChatModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/chat/model/ChatModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/adapter/viewholder/IntroChatLeftViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/adapter/viewholder/IntroChatLeftViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/adapter/viewholder/IntroChatRightViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/adapter/viewholder/IntroChatRightViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/view/DashboardActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/view/DashboardActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/view/IntroFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/dashboard/presentation/view/IntroFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/model/UiModelBeautyTip.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/model/UiModelBeautyTip.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/model/UiModelBeautyTipDetail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/model/UiModelBeautyTipDetail.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/model/UiModelFeed.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/model/UiModelFeed.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetAcneProneTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetAcneProneTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetAntiAgingTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetAntiAgingTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetBeautyTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetBeautyTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetCleanBeautyTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetCleanBeautyTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetCrueltyFreeTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetCrueltyFreeTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetDarkCirclesTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetDarkCirclesTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetDehydratedTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetDehydratedTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetDullSkinTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetDullSkinTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetFeedUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetFeedUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetLargePoleTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetLargePoleTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetMensSkinTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetMensSkinTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetNaturalBeautyTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetNaturalBeautyTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetRednessTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetRednessTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetVeganBeautyTipsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/domain/usecase/GetVeganBeautyTipsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/BeautyTipAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/BeautyTipAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/BeautyTipDetailAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/BeautyTipDetailAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/FeedAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/FeedAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/viewholder/ItemBeautyTipDetailViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/viewholder/ItemBeautyTipDetailViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/viewholder/ItemBeautyTipViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/viewholder/ItemBeautyTipViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/viewholder/ItemFeedViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/adapter/viewholder/ItemFeedViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/contract/BeautyTipContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/contract/BeautyTipContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/contract/HomeContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/contract/HomeContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/view/BeautyTipFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/view/BeautyTipFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/view/CommentFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/view/CommentFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/view/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/view/HomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/viewmodel/BeautyTipViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/viewmodel/BeautyTipViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/viewmodel/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/home/presentation/viewmodel/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/post/CreateReviewFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/post/CreateReviewFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/ProfileFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/CustomAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/CustomAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/FollowersViewPagerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/FollowersViewPagerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/GridViewAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/GridViewAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/ProductReviewAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/ProductReviewAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/ProductReviewAdapterLinear.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/ProductReviewAdapterLinear.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/ProfileViewpagerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/ProfileViewpagerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/UserPostViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/UserPostViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/UserPostsAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/adapter/UserPostsAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/model/UiModelPost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/model/UiModelPost.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/repository/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/repository/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecase/GetUserUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecase/GetUserUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecasse/GetPostUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecasse/GetPostUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecasse/GetUserUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecasse/GetUserUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecasse/UploadUserProfilePictureUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/usecasse/UploadUserProfilePictureUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/utils/ItemList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/utils/ItemList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/utils/OptionItems.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/utils/OptionItems.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/EditProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/EditProfileFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/FollowersFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/FollowersFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/FollowersHostFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/FollowersHostFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/FollowingFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/FollowingFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/PostProfFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/PostProfFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/ProfProductReviewFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/ProfProductReviewFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/ProfileFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/ProfileFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/ProfileOptionFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/ProfileOptionFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/UploadPictureFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/UploadPictureFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/UserPostsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/view/UserPostsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/FirebaseCallback.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/FirebaseCallback.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/GetPostsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/GetPostsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/ProfileViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/ProfileViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/UserProfileViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewmodel/UserProfileViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewstate/Response.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/profile/viewstate/Response.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/rating/RatingFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/rating/RatingFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/scanner/ScannerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/scanner/ScannerFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/model/UiModelAccount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/model/UiModelAccount.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/model/UiModelTag.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/model/UiModelTag.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/usecase/account/GetAllAccountsUserCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/usecase/account/GetAllAccountsUserCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/usecase/tag/GetAllTagsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/domain/usecase/tag/GetAllTagsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/ItemAccountAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/ItemAccountAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/ItemTagAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/ItemTagAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/SearchViewPagerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/SearchViewPagerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/viewholder/ItemAccountViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/viewholder/ItemAccountViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/viewholder/ItemTagViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/adapter/viewholder/ItemTagViewHolder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/AccountContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/AccountContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/InfluencerContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/InfluencerContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/PopularContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/PopularContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/ProductContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/ProductContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/TagContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/contract/TagContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/AccountsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/AccountsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/InfluencersFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/InfluencersFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/PopularFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/PopularFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/ProductsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/ProductsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/SearchHostFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/SearchHostFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/TagsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/view/TagsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/AccountsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/AccountsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/InfluencersViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/InfluencersViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/PopularViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/PopularViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/ProductsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/ProductsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/TagsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/search/presentation/viewmodel/TagsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/domain/model/OnBoardingUiModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/domain/model/OnBoardingUiModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/domain/usecase/GetOnBoardingDataUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/domain/usecase/GetOnBoardingDataUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/adapter/OnBoardingAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/adapter/OnBoardingAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/contract/WelcomeContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/contract/WelcomeContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/view/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/view/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/view/WelcomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/view/WelcomeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/viewmodel/WelcomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/app/blingy/reauty/feature/welcome/presentation/viewmodel/WelcomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/HeaderAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/HeaderAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/anim_from_bottom_to_top.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/anim_from_bottom_to_top.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/anim_from_top_to_bottom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/anim_from_top_to_bottom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/fab_close.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/fab_close.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/fab_open.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/fab_open.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/rotate_backward.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/rotate_backward.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/rotate_forward.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/rotate_forward.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/color/colour_bottom_navigation_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/color/colour_bottom_navigation_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_send_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_send_text.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_sheet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_sheet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_chat_text.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_round_chat_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_round_chat_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_round_chat_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_round_chat_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_round_stroke_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_round_stroke_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/broken_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/broken_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/divider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/divider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/edittext_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edittext_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fab_inner_red.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fab_inner_red.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fab_ring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fab_ring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_acne_prone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_acne_prone.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_anti_aging.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_anti_aging.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_back.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_back.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_down.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_down.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_barcode_scanner_coral.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_barcode_scanner_coral.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_barcode_scanner_yellow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_barcode_scanner_yellow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_check_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_check_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_close_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_close_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_fiber_manual_record_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_fiber_manual_record_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_login_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_login_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_clean_beauty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_clean_beauty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_cruelty_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_cruelty_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dark_circles_puffiness.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dark_circles_puffiness.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_comment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_comment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_comments.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_comments.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_like_empty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_like_empty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_like_full.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_like_full.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_profile_picture.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_profile_picture.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_share.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_share.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_tag.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_default_tag.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dehydrated.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dehydrated.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dots_horizontal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dots_horizontal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dull_skin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dull_skin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_face.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_face.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_four_star_face.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_four_star_face.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_large_pores_blackheads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_large_pores_blackheads.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logo_coral_reauty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logo_coral_reauty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logo_google.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logo_google.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logo_yellow_reauty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_logo_yellow_reauty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_mens_skin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_mens_skin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_messages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_messages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_mypost_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_mypost_android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_natural_beauty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_natural_beauty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_oilyskin_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_oilyskin_android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_post.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_post.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_ratings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_ratings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_reauty_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_reauty_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_reautycoin_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_reautycoin_android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_reautycrown_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_reautycrown_android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_redness_blemishes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_redness_blemishes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_alcohol_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_alcohol_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_anti_aging.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_anti_aging.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_contains_spf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_contains_spf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_fragrance_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_fragrance_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_gluten_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_gluten_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_non_comedogenic.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_non_comedogenic.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_oil_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_oil_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_paraben_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_paraben_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_sles_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_sles_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_talc_free.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sc_talc_free.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_scan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_scan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_combination.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_combination.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_dry.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_dry.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_normal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_normal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_oily.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_oily.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_sensitive.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sk_sensitive.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_vegan_beauty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_vegan_beauty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/image_review_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/image_review_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/indicator_active.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/indicator_active.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/indicator_inactive.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/indicator_inactive.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/item_review_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/item_review_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_chip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_chip.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/switch_thumb_checked.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/switch_thumb_checked.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/switch_track.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/switch_track.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_auth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_auth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_accounts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_accounts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_beauty_tip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_beauty_tip.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_comment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_comment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_review.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_review.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_unique_name.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_unique_name.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_eula.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_eula.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_followers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_followers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_followers_host.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_followers_host.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_folowers_host.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_folowers_host.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_friends.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_friends.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_influencers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_influencers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_intro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_intro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_partner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_partner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_popular.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_popular.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_post_prof.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_post_prof.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_products.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_prof_product_review.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_prof_product_review.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile_option.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile_option.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_rating.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_rating.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_scanner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_scanner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_search_host.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_search_host.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_sign_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tags.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_upload_picture.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_upload_picture.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user_posts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user_posts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_welcome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_welcome.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_beauty_tip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_beauty_tip.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_beauty_tip_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_beauty_tip_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_receive.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_receive.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_row_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_row_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_row_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_row_right.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_send.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_send.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_friends.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_friends.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_post_gridview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_post_gridview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_profile_option.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_profile_option.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_profile_option_header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_profile_option_header.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_review_linear.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_review_linear.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_tag.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_tag.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_user_product_review.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_user_product_review.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_welcome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_welcome.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_bottom_sheet_date_picker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_bottom_sheet_date_picker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_bottom_sheet_gender.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_bottom_sheet_gender.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_chat_sheet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_chat_sheet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_dialog_beauty_tip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_dialog_beauty_tip.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_bottom_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_bottom_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_top_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_top_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_top_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_top_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_auth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_auth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_welcome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_welcome.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/shapes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/shapes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/types.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/types.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/app/blingy/reauty/core/data/CoroutineTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/app/blingy/reauty/core/data/CoroutineTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/app/blingy/reauty/core/data/JsonReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/app/blingy/reauty/core/data/JsonReader.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/app/blingy/reauty/core/data/repository/UserRepositoryImplTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/app/blingy/reauty/core/data/repository/UserRepositoryImplTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/resources/test_user.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/resources/test_user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/manjaro/.android/avd/Pixel_4_XL_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Reauty" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="214xzQtslDRagyq3sMBgoDej5HY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reauty" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1681535878">
+      <recent name="com.app.blingy.reauty.feature.chat" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Reauty.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1deeca61-c4d5-4cd0-9146-574bacd9123e" name="Default Changelist" comment="" />
+      <created>1637214423333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637214423333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

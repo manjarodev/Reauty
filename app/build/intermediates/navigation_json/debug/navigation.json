@@ -1,0 +1,17 @@
+[
+  {
+    "name": "nav_auth",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_dashboard",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_welcome",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]
